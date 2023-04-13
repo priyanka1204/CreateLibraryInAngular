@@ -50,4 +50,14 @@ imports: [
     4. Also build my-lib using command in client1 terminal- ng build my-lib —watch.
   
 
+Output : angulae 1st application
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/130432171/231754888-a98da736-6112-4a23-b6e2-a5964fd7e6ad.png">
+
+2nd application
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/130432171/231754994-a5fffe2d-c83e-407e-8bae-3da9f4f19b77.png">
+
+3rd application
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/130432171/231755206-fd6d6c7d-f1fe-4c20-b276-e20be221fda1.png">
+
+
 
